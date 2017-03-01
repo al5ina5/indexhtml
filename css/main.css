@@ -1,0 +1,12 @@
+/* www.alsina.xyz | Alchemically bonded by Sebastian Alsina (@youngseebi) */
+     
+html,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    color: dimgrey;
+    font-family: sans-serif !important;
+}
+@media only screen and (min-device-width: 320px) and (max-width: 768px) {
+}
