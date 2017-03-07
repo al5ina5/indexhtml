@@ -27,15 +27,15 @@
 }
 
 .panel.full {
-    min-height: 100vh;
+    height: 100%;
 }
 
 .panel.half {
-    min-height: 50vh;
+    height: 50%;
 }
 
 .content {
-    width: 90%;
+    width: 80%;
     max-width: 1080px;
     height: auto;
     margin: auto;
