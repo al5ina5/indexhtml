@@ -9,11 +9,15 @@
     clear: both;
 }
 
+textarea,
+input {
+    border-radius: 0;
+    -webkit-appearance: none;
+}
+
 textarea:focus,
 input:focus {
     outline: none;
-    border-radius: 0;
-    -webkit-appearance: none;
 }
 
 a {
