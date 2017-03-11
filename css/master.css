@@ -9,12 +9,12 @@
     clear: both;
 }
 
-
-/*
-i {
-    margin-right: 4px;
+textarea:focus,
+input:focus {
+    outline: none;
+    border-radius: 0;
+    -webkit-appearance: none;
 }
-*/
 
 a {
     text-decoration: inherit;
